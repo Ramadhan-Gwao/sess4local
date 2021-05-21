@@ -14,7 +14,6 @@ namespace project1
             double result = (newAgeSec*earthAgeDays)/earthAgeSec;
             double result1 = result/earthAgeDays;
             Console.WriteLine($"Earth Age: {result1} Earth-years old");
-
         }
     }
 }
